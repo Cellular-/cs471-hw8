@@ -1,1 +1,6 @@
-CS471 HW8
+# CS471 HW8
+
+This homework is about the preferred workflow for CS471.
+
+The preferred workflow involves implementing traceability, using one branch per task, and creating
+pull requests to close those tasks.
